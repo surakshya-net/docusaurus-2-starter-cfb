@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: randomduck-docusaurus-2-starter-cfb
+owner: randomduck
+package: .
